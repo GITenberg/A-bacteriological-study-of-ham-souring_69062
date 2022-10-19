@@ -1,0 +1,27 @@
+_repo: A-bacteriological-study-of-ham-souring_69062
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McBryde, C. N.
+    gutenberg_agent_id: '55080'
+    url: http://www.gutenberg.org/2009/agents/55080
+description: ''
+gutenberg_issued: '2022-09-28'
+identifiers:
+  gutenberg: '69062'
+language: en
+pgterms:marc904: https://archive.org/details/bacteriologicals00mcbriala/page/2/mode/2up
+pgterms:marc905: 20210715154404mcbrydemd
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Charlene Taylor, Les Galloway and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Government Printing Office,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A bacteriological study of ham souring
+url: http://www.gutenberg.org/ebooks/69062
